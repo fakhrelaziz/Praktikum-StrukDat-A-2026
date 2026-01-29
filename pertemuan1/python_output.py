@@ -2,7 +2,7 @@ print("Assalamualaikum Dunia") #lebih simpel dan mudah ketimbang bahasa C
 print('Assalamualaikum Dunia') #bisa petik tunggal (singel quotes)
 
 
-print("Hello World!", end=" ")
+print("Halo Wak!", end=" ")
 print("I will print on the same line.") #jika ingin output satu line gunakan end=" "
 
 #Bisa juga print number

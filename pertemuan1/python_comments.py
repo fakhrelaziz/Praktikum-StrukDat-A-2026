@@ -10,9 +10,9 @@ cara kedua jika ingin multiline
 """ 
 
 #This is a comment
-print("Hello, World!")
+print("Assalamualaikum, Dunia!")
 
-print("Hello, World!") #This is a comment
+print("Assalamualaikum, Dunia!") #This is a comment
 
 #coment digunakan untuk menjelaskan kode python atau algoritmanya 
 
