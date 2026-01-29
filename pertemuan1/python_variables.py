@@ -12,7 +12,7 @@ print(y)
 #yang awalnya integer kita bisa langsung mengubah tipe data nya berdasarkan nilai yang diberikan
 
 a = 17        # x int
-a = "fakhrel" # x berubah nilai dengan tipe data string
+a = "fakhrelll" # x berubah nilai dengan tipe data string
 print(a)
 
 """
